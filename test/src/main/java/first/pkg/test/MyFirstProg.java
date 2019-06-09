@@ -1,3 +1,5 @@
+package first.pkg.test;
+
 public class MyFirstProg {
 
   public static void main(String[] args) {
